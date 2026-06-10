@@ -147,9 +147,8 @@ Volatile acidity has the strongest **negative correlation**.
 ## 🙋‍♂️ Author
 
 **Your Name**
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [github.com/your-username](https://github.com/your-username)
-
+- LinkedIn: https://www.linkedin.com/in/sandhya-reddy-ai/
+- GitHub: https://github.com/sandhya-shining-star/
 ---
 
 ## 📃 License
